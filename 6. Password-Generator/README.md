@@ -1,7 +1,4 @@
-Here is a **README in the exact same style and quality**, adapted for your **Password Generator** project.
-You can paste this directly into `README.md`.
 
----
 
 # 🔐 Password Generator – Python CLI Tool
 
@@ -116,10 +113,4 @@ This project is open-source and free to use for learning purposes.
 
 Abhinav
 
----
 
-If you want, I can also:
-
-* Make all your **100 Days of Code READMEs consistent**
-* Optimize wording for **GitHub portfolio**
-* Add badges and formatting polish
